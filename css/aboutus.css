@@ -1,0 +1,18 @@
+.album .col{
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+h3{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+p.card-text{
+    font-weight: 900 !important;
+}
+.card-body{
+    background-color: lavenderblush ;
+}
+
+/*lavenderblush*/
+/*lightcyan*/

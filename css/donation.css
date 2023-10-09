@@ -1,0 +1,62 @@
+.h-100.p-5.text-bg-dark.rounded-3{
+    background-color: bisque !important;
+}
+.h-100.p-5.bg-body-tertiary.border.rounded-3{
+    background-color: bisque !important;
+}
+.h-100.p-5.bg-body-tertiary.border.rounded-3.ddb{
+    background-color: bisque !important;
+    margin-top: 15px !important;
+    margin-left: 300px !important;
+    width: 100%;
+}
+.yb{
+    background-color: greenyellow !important;
+}
+
+.yb{
+    margin-bottom: 10px;
+}
+.display-5.fw-bold{
+    font-family: Times New Roman, sans-serif;
+    color: goldenrod;
+}
+.col-md-8.fs-4{
+    font-family: Helvetica, sans-serif;
+    color: grey;
+}
+body{
+    background-color: lightgrey !important;
+}
+button.bb{
+    background-color: brown !important;
+    color: white !important ;
+}
+button.gb{
+    background-color:green !important;
+}
+.h-100.p-5.text-bg-dark.rounded-3 h2{
+    font-family: 'Times New Roman', Times, sans-serif !important;
+    color: orangered !important;
+}
+.h-100.p-5.bg-body-tertiary.border.rounded-3 h2{
+    font-family: 'Times New Roman', Times, sans-serif !important;
+    color: orangered !important;
+}
+.h-100.p-5.text-bg-dark.rounded-3 p{
+    font-family: Helvetica, sans-serif !important;
+    color: purple !important;
+    font-weight: bold;
+}
+.h-100.p-5.bg-body-tertiary.border.rounded-3 p{
+    font-family: Helvetica, sans-serif !important;
+    color: purple !important;
+    font-weight: bold;
+}
+.content2 .p-5.mb-4.bg-body-tertiary.rounded-3{
+    background-color: lightgrey !important;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}

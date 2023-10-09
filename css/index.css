@@ -1,0 +1,35 @@
+
+.bd-placeholder-img{
+    height: 655px;
+}
+img{
+    width: 100%;
+}
+.px-3.py-2.text-bg-dark.border-bottom{
+    background-color: rgb(72, 72, 237) !important;
+    border-radius: 15px !important;
+}
+.bd-placeholder-img{
+    background-color: white !important;
+}
+/*button{
+    background-color: white !important;
+}*/
+h2{
+    color: black !important;
+}
+body{
+    background-color: lightgray;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+  }
+  
+
+  .sticky + .content {
+    padding-top: 60px;
+  }

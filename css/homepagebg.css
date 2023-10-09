@@ -1,0 +1,25 @@
+
+#hero{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+}
+#hero p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 30px;
+  /*  color: rgb(84, 80, 14);*/
+}
+.background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url('../images/Homepagebg.jpg') !important;
+    background-size: cover;
+    background-position: center;
+    filter: blur(10px);
+    z-index: -1;
+}
